@@ -33,5 +33,10 @@ This project aims to analyze and predict **housing prices in Amsterdam** using d
 <img src="Plots/08.png" alt="Alt Text" width="1000"/>
 
 ## Evaluation for predicting model
+- **Mean Absolute Error (MAE)**: 164,755.89
+- **Mean Squared Error (MSE)**: 60,958,225,226.29
+- **R-squared (R²)**: 0.80
+
+
 ### Figure 09. Plot of Predicted Price vs Original price
 <img src="Plots/09.png" alt="Alt Text" width="1000"/>
