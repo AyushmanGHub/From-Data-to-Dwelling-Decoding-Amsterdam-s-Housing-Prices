@@ -32,4 +32,4 @@ This project aims to analyze and predict **housing prices in Amsterdam** using d
 <img src="Plots/08.png" alt="Alt Text" width="1000"/>
 
 ### Figure 09. Plot of Price vs Longitude and Latitude coloured by Area
-<img src="Plots/08.png" alt="Alt Text" width="1000"/>
+<img src="Plots/09.png" alt="Alt Text" width="1000"/>
