@@ -2,7 +2,7 @@
 <hr style="border: 0; height: 3px; background-color: black;">
 
 ## Abstract
-This project aims to analyze and predict **housing prices in Amsterdam** using data from August 2021. The primary goal is to **identify trends affecting housing prices**. By analyzing predictors such as property area, number of rooms, and geographic location, the project will explore relationships through exploratory data analysis (EDA). A predictive model, using statistical and machine learning techniques, will be developed to estimate prices and provide insights into the market.
+This project aims to analyze and predict **housing prices in Amsterdam** using data from August 2021. The primary goal is to **identify trends affecting housing prices**. By analyzing predictors such as property area, number of rooms, and geographic location, the project will explore relationships through exploratory data analysis (EDA). A predictive model, using Simple regression, will be developed to estimate prices and provide insights into the market.
 <br>
 <br>
 ## Exploratory Data Analysis with Visualisation
@@ -28,8 +28,10 @@ This project aims to analyze and predict **housing prices in Amsterdam** using d
 ### Figure 07. HeatMap Correlation Plot
 <img src="Plots/07.png" alt="Alt Text" width="1000"/>
 
+## Significance of features for prediction
 ### Figure 08. Feature Significance for model
 <img src="Plots/08.png" alt="Alt Text" width="1000"/>
 
-### Figure 09. Plot of Price vs Longitude and Latitude coloured by Area
+## Evaluation for predicting model
+### Figure 09. Plot of Predicted Price vs Original price
 <img src="Plots/09.png" alt="Alt Text" width="1000"/>
