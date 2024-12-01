@@ -7,20 +7,26 @@ This project aims to analyze and predict **housing prices in Amsterdam** using d
 <br>
 ## Exploratory Data Analysis with Visualisation
 
-### Figure 01. Histogram of (a) Price, (b) number of rooms and (c) Area of House
+### Figure 01. Histogram of (a) Price, (b) Area of House and (c) number of rooms
 <img src="Plots/01.png" alt="Alt Text" width="1000"/>
 
-### Figure 02. (a) Number of Rooms vs Price of House and (b) Area vs Price of House 
+### Figure 02. Histogram of (a) Longitude, (b) Latitude
 <img src="Plots/02.png" alt="Alt Text" width="1000"/>
 
-### Figure 03. (a) Longitude vs Price , (b) Latitude vs Price 
+### Figure 03. (a) Rooms vs Price , (b) Area vs Price 
 <img src="Plots/03.png" alt="Alt Text" width="1000"/>
 
-### Figure 04. Plots between Area vs Rooms
+### Figure 04. (a) Price vs Latitude, (b) Price vs Longitude 
 <img src="Plots/04.png" alt="Alt Text" width="1000"/>
 
-### Figure 05. Plot of House Locations(longitude and Latitude), Price and Area 
+### Figure 05. Scatter Plots betweem features
 <img src="Plots/05.png" alt="Alt Text" width="1000"/>
 
-### Figure 06. Plot of Rooms vs Area coloured by Price
+### Figure 06. Plot of Price vs Longitude and Latitude coloured by Area
 <img src="Plots/06.png" alt="Alt Text" width="1000"/>
+
+### Figure 08. HeatMap Correlation Plot
+<img src="Plots/07.png" alt="Alt Text" width="1000"/>
+
+### Figure 06. Plot of Price vs Longitude and Latitude coloured by Area
+<img src="Plots/08.png" alt="Alt Text" width="1000"/>
