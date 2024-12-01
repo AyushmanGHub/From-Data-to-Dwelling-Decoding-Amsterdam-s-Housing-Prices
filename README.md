@@ -25,8 +25,11 @@ This project aims to analyze and predict **housing prices in Amsterdam** using d
 ### Figure 06. Plot of Price vs Longitude and Latitude coloured by Area
 <img src="Plots/06.png" alt="Alt Text" width="1000"/>
 
-### Figure 08. HeatMap Correlation Plot
+### Figure 07. HeatMap Correlation Plot
 <img src="Plots/07.png" alt="Alt Text" width="1000"/>
 
-### Figure 06. Plot of Price vs Longitude and Latitude coloured by Area
+### Figure 08. Feature Significance for model
+<img src="Plots/08.png" alt="Alt Text" width="1000"/>
+
+### Figure 09. Plot of Price vs Longitude and Latitude coloured by Area
 <img src="Plots/08.png" alt="Alt Text" width="1000"/>
