@@ -1,4 +1,4 @@
-# From Data to Dwelling: Decoding Amsterdam's Housing Prices 
+# From Data to Dwelling : Predicting Housing Prices
 <hr style="border: 0; height: 3px; background-color: black;">
 
 ## Abstract
